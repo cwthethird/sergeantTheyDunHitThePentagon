@@ -52,6 +52,8 @@ namespace sergeantTheyDunHitThePentagon
                 Console.WriteLine("H|   |   |   |   |   |   |   |   |   |   |          H|   |   |   |   |   |   |   |   |   |   |");
                 Console.WriteLine("I|   |   |   |   |   |   |   |   |   |   |          I|   |   |   |   |   |   |   |   |   |   |");
                 Console.WriteLine("J|   |   |   |   |   |   |   |   |   |   |          J|   |   |   |   |   |   |   |   |   |   |");
+                Console.WriteLine("J|   |   |   |   |   |   |   |   |   |   |          J|   |   |   |   |   |   |   |   |   |   |");
+
 
             }
 
