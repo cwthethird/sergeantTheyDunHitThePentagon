@@ -27,7 +27,7 @@ namespace sergeantTheyDunHitThePentagon
             bool gameOver = false;
             bool winOrDraw = false;
             char playAgain = ' ';
-            Random random = new Random();
+            Random randoms = new Random();
             IntitialiseGameBoard(gameBoard);
             DisplayBoard(gameBoard);
 
